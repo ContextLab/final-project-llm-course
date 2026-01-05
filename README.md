@@ -1,8 +1,8 @@
 # Final Project: Your LLM Research Capstone
 
-> **📥 Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/IFw74DY7)
+> **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/IFw74DY7)
 >
-> **📅 Due:** March 9, 2026 at 11:59 PM EST
+> **Due:** March 9, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook, writeup, and presentation to the repository before the deadline.
 
