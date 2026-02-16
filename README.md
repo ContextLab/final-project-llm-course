@@ -189,23 +189,9 @@ Here are **20 diverse project ideas** to inspire you. These span different diffi
 
 ## Requirements
 
-Your final project must include four key deliverables:
+Your final project must include three key deliverables:
 
-### 1. Project Proposal (Due Week 8)
-
-Submit a **1-2 page proposal** that includes:
-
-- **Title and team members**: Who is working on this?
-- **Motivation**: What problem are you solving? Why does it matter?
-- **Research questions**: What specific questions will you investigate?
-- **Approach**: What methods, models, and datasets will you use?
-- **Expected outcomes**: What do you hope to achieve or demonstrate?
-- **Timeline**: How will you allocate work over the project period?
-- **Division of labor**: How will team members split responsibilities?
-
-The proposal helps you clarify your ideas and allows us to provide early feedback to ensure your project is appropriately scoped.
-
-### 2. Code Implementation (Due Week 10)
+### 1. Code Implementation (Due Week 10)
 
 Submit a **well-documented Jupyter notebook** that:
 
@@ -219,7 +205,7 @@ Submit a **well-documented Jupyter notebook** that:
 
 **Code quality matters**: Your notebook should be something you'd be proud to share publicly or include in a portfolio.
 
-### 3. Presentation (Due Week 10)
+### 2. Presentation (Due Week 10)
 
 Create a **10-12 minute video presentation** and present it in class:
 
@@ -231,7 +217,7 @@ Create a **10-12 minute video presentation** and present it in class:
 
 The presentation should be accessible to your classmates—assume they're smart but may not know the specific technical details of your domain.
 
-### 4. Written Writeup (Due Week 10)
+### 3. Written Writeup (Due Week 10)
 
 Submit a **2-5 page writeup** (not including references or appendices) structured as:
 
@@ -264,20 +250,14 @@ Write clearly and concisely. Think of this as a mini research paper suitable for
 
 ## Timeline and Milestones
 
-### Week 7: Team Formation and Brainstorming
+### Weeks 7–8: Team Formation and Brainstorming
 - Form teams of 2-3 students
 - Brainstorm project ideas
 - Review recent papers and existing systems for inspiration
-- Discuss with instructor or peers to refine ideas
-- **Deliverable**: Team formed, preliminary idea identified
-
-### Week 8: Proposal, Feedback, and Implementation Starts
-- Develop detailed project proposal (1-2 pages)
 - Identify datasets, models, and tools needed
 - Create timeline and divide initial responsibilities
-- Submit proposal and receive feedback
-- Begin implementation: setup environment, load data, test baseline approaches
-- **Deliverable**: Proposal submitted, initial codebase, preliminary experiments
+- Consider meeting with the instructor early on to ensure your project is appropriately scoped
+- **Deliverable**: Team formed, project idea identified
 
 ### Week 9: Core Development and Iteration
 - Implement main technical components
@@ -297,18 +277,13 @@ Write clearly and concisely. Think of this as a mini research paper suitable for
 
 Your project will be evaluated holistically, with the final grade broken down as:
 
-### Proposal (10%)
-- **Clarity**: Is the project clearly defined?
-- **Feasibility**: Is the scope appropriate for the timeline?
-- **Significance**: Does it address an interesting problem?
-
-### Implementation (40%)
+### Implementation (45%)
 - **Technical quality**: Is the code well-written, documented, and reproducible?
 - **Sophistication**: Does it demonstrate mastery of course concepts?
 - **Functionality**: Does it work as intended?
 - **Reproducibility**: Can results be replicated in Colab?
 
-### Results and Analysis (20%)
+### Results and Analysis (25%)
 - **Rigor**: Are experiments well-designed and thorough?
 - **Insights**: Do results provide meaningful insights?
 - **Evaluation**: Are appropriate metrics and baselines used?
@@ -451,7 +426,6 @@ This assignment is submitted via **GitHub Classroom**. Follow these steps:
 
 ### Deadlines
 
-- **Project Proposal**: Week 8 (submit via GitHub Classroom)
 - **Final Submission (Code, Writeup, Presentation)**: March 9, 2026 at 11:59 PM EST
 
 ## Technical Requirements
